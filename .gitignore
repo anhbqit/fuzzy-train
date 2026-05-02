@@ -1,0 +1,8 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+
+# Local databases (if you ever use them locally)
+*.sqlite3
+*.db
